@@ -1,0 +1,26 @@
+== Redmine Coffee theme
+
+Copyright (C) 2011-2024 Kirill Bezrukov
+https://www.redmineup.com/pages/themes/coffee
+
+== 2024-06-11 v1.0.0
+
+* Redmine 6 support
+* Added badge border radius
+* Updated input styles
+* Fixed main menu "+" background
+* Fixed main content shadow
+* Fixed sideback background
+
+== 2022-11-29 v0.0.5
+
+* Redmine 5 support
+* Fixed icon position bug
+* Fixed margin for content div
+* Fixed agile full screen board close
+ 
+== 2014-02-12 v0.0.4
+
+* Search autocomplete styles
+* New CRM 3.2.6+ tags styles
+* redmine_tags RedmineCRM fork support
